@@ -75,7 +75,4 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (contactForm) {
         contactForm.addEventListener('submit', function(e) {
-            e.preventDefault();
             
-            // Here you would typically send the form data to a server
-            // For
